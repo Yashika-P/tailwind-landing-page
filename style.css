@@ -1,0 +1,52 @@
+.container-1 {
+    font-family: "Source Sans 3", sans-serif;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    background-color: lightskyblue;
+}
+
+.wrapper-1 {
+    display: flex;
+    flex-flow: row nowrap;
+    margin: 2rem 0;
+    padding: 2rem;
+    border-radius: 5px;
+    font-size: medium;
+
+}
+
+.deal-title {
+    width: 17.5vw;
+
+    img {
+        width: 100%;
+    }
+
+}
+.container-2{
+    font-family: "Source Sans 3", sans-serif;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    background-color: blueviolet;
+
+}    
+.wrapper-2 {
+    display: flex;
+    flex-flow: row nowrap;
+    margin: 2rem 0;
+    padding: 2rem;
+    border-radius: 5px;
+    font-size: medium;
+
+}
+
+.deal {
+    width: 17.5vw;
+
+    img {
+        width: 100%;
+    }
+
+}
